@@ -1,0 +1,36 @@
+[33mcommit a15b538a33f19156cc94e66dd74a4d339dd82282[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 789aacd 4043a7a
+Author: AWALI Samsoudine <awali@asmagroup.com>
+Date:   Fri May 26 21:08:18 2017 +0100
+
+    Merge branch 'green-background'
+
+[33mcommit 789aacd993bd7b091ff52992158e03336659e4d2[m
+Author: AWALI Samsoudine <awali@asmagroup.com>
+Date:   Fri May 26 20:55:06 2017 +0100
+
+    hi en hello
+
+[33mcommit 4043a7ab1d9521c3b7a8267c69616bb241ed69bc[m[33m ([m[1;32mgreen-background[m[33m)[m
+Author: AWALI Samsoudine <awali@asmagroup.com>
+Date:   Fri May 26 20:46:31 2017 +0100
+
+    green background
+
+[33mcommit c0851bb0173a347461668ec6e4bfbca2921fb5cf[m
+Author: AWALI Samsoudine <awali@asmagroup.com>
+Date:   Fri May 26 19:19:49 2017 +0100
+
+    J'ai juste enlever l'espace
+
+[33mcommit 46d0cf4dfe5ff2a632c7bed0f19898fc6f56f33d[m
+Author: AWALI Samsoudine <awali@asmagroup.com>
+Date:   Fri May 26 16:50:10 2017 +0100
+
+    Center h1
+
+[33mcommit ef75d76f85bb17f74d6667062baa4cb151c2b840[m
+Author: AWALI Samsoudine <awali@asmagroup.com>
+Date:   Fri May 26 15:20:18 2017 +0100
+
+    Create first version of index file
